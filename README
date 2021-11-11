@@ -1,5 +1,87 @@
 Machine Learning Meets with Metal Organic Frameworks for Gas Storage and Separation
--
+=================================================================================
 Cigdem Altintas, Omer Faruk Altundal, Seda Keskin, and Ramazan Yildirim
 Journal of Chemical Information and Modeling 2021 61 (5), 2131-2146
 DOI: 10.1021/acs.jcim.1c00191
+
+Transfer Learning Study of Gas Adsorption in Metal–Organic Frameworks
+=================================================================================
+Ruimin Ma, Yamil J. Colón, and Tengfei Luo
+ACS Applied Materials & Interfaces 2020 12 (30), 34041-34048
+DOI: 10.1021/acsami.0c06858
+
+A Comprehensive Survey on Graph Neural Networks
+=================================================================================
+Wu, Zonghan et al
+IEEE Transactions on Neural Networks and Learning Systems
+Volume 32, Pages 4-24, 2019
+
+Neural Message Passing for Quantum Chemistry
+=================================================================================
+https://github.com/brain-research/mpnn
+
+Exploring Bayesian Optimization
+=================================================================================
+https://distill.pub/2020/bayesian-optimization/
+
+A Survey of Deep Active Learning
+=================================================================================
+https://deepai.org/publication/a-survey-of-deep-active-learning. 
+
+Transferable Multilevel Attention Neural Network for Accurate Prediction of Quantum Chemistry Properties via Multitask Learning
+=================================================================================
+Z. Liu, L. Lin, Q. Jia, Z. Cheng, Y. Jiang, Y. Guo, and J. Ma, 
+“Transferable multilevel attention neural network for accurate prediction of quantum chemistry properties via multitask learning,”
+ACS Publications, 2021.
+
+Multi-Task Learning on Graphs with Node and
+Graph Level Labels
+=================================================================================
+https://grlearning.github.io/papers/132.pdf
+
+An Overview of Multi-Task Learning in Deep Neural Networks
+=================================================================================
+S. Ruder, 
+“An overview of multi-task learning in Deep Neural Networks,”
+arXiv.org, 15-Jun-2017.
+https://arxiv.org/abs/1706.05098v1
+
+A Comprehensive Survey on Transfer Learning
+=================================================================================
+F. Zhuang, Z. Qi, K. Duan, D. Xi, Y. Zhu, H. Zhu, H. Xiong, and Q. He,
+“A comprehensive survey on Transfer Learning,” Cornell University, 07-Nov-2019. 
+https://arxiv.org/abs/1911.02685
+
+SIMPLE SPECTRAL GRAPH CONVOLUTION
+=================================================================================
+H. Zhu and P. Koniusz, “Simple spectral graph convolution,” 
+OpenReview, 27-Mar-2021.
+https://openreview.net/forum?id=CYO5T-YjWZV
+
+A Survey On Graph Kernels
+=================================================================================
+Kriege, N.M., Johansson, F.D. & Morris, C.
+Appl Netw Sci 5, 6 (2020).
+https://doi.org/10.1007/s41109-019-0195-3
+
+Fast geometric deep learning with continuous b-spline kernels
+=================================================================================
+Fey, M, Lenssen JE, Weichert F, Müller H (2018)
+SplineCNN: Fast geometric deep learning with continuous b-spline kernels
+In: IEEE Conference on Computer Vision and Pattern Recognition, 869–877.
+https://doi.org/10.1109/cvpr.2018.00097.
+
+A Survey on Deep Learning: Algorithms, Techniques, and Applications
+=================================================================================
+Samira Pouyanfar, Saad Sadiq, Yilin Yan, Haiman Tian, Yudong Tao, Maria Presa Reyes, Mei-Ling Shyu, Shu-Ching Chen, and S. S. Iyengar. 
+2018.
+ACM Comput. Surv. 51, 5, Article 92 (January 2019), 36 pages.
+DOI:https://doi.org/10.1145/3234150
+
+Graph Neural Network and Some of GNN Applications
+=================================================================================
+https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications
+
+Residual or Gate? Towards Deeper Graph Neural Networks for Inductive Graph Representation Learning
+=================================================================================
+https://arxiv.org/abs/1904.08035
